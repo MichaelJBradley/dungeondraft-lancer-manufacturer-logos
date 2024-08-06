@@ -10,3 +10,4 @@ To use the asset pack, download the latest pack from the releases and load into 
 
 Thanks to Moonrez for creating the textures.
 
+Powered by [Lancer](https://massifpress.com/lancer)

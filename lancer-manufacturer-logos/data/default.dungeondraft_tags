@@ -1,23 +1,23 @@
 {
 	"tags": {
 		"LancerManufacturers": [
-			"textures/objects/gms-default.png",
-			"textures/objects/gms-colorable.png",
-			"textures/objects/ha-default.png",
-			"textures/objects/ha-colorable.png",
-			"textures/objects/horus-default.png",
-			"textures/objects/horus-colorable.png",
-			"textures/objects/ipsn-default.png",
-			"textures/objects/ipsn-colorable.png",
-			"textures/objects/ssc-default.png",
-			"textures/objects/ssc-colorable.png"
+			"textures/objects/gms_default.png",
+			"textures/objects/gms_colorable.png",
+			"textures/objects/ha_default.png",
+			"textures/objects/ha_colorable.png",
+			"textures/objects/horus_default.png",
+			"textures/objects/horus_colorable.png",
+			"textures/objects/ips-n_default.png",
+			"textures/objects/ips-n_colorable.png",
+			"textures/objects/ssc_default.png",
+			"textures/objects/ssc_colorable.png"
 		],
 		"Colorable": [
-			"textures/objects/gms-colorable.png",
-			"textures/objects/ha-colorable.png",
-			"textures/objects/horus-colorable.png",
-			"textures/objects/ipsn-colorable.png",
-			"textures/objects/ssc-colorable.png"
+			"textures/objects/gms_colorable.png",
+			"textures/objects/ha_colorable.png",
+			"textures/objects/horus_colorable.png",
+			"textures/objects/ips-n_colorable.png",
+			"textures/objects/ssc_colorable.png"
 		]
 	},
 	"sets": {
@@ -28,6 +28,7 @@
 			"smith",
 			"shimano",
 			"ips-n",
+			"ips",
 			"northstar",
 			"ha",
 			"harrison",

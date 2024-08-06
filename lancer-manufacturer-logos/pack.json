@@ -1,9 +1,9 @@
 {
-	"name": "lancer-manufacturer-logos",
+	"name": "MichaelJBradley-Lancer-Manufacturer-Logos",
 	"id": "itzR6dPI",
 	"version": "1",
 	"author": "MichaelJBradley,Moonrez",
-	"keywords": "Lancer,HA,SSC,GMS,Horus",
+	"keywords": "Lancer,HA,Harrison,Armory,SSC,Smith,Shimano,GMS,General,Massive,",
 	"allow_3rd_party_mapping_software_to_read": true,
 	"custom_color_overrides": {
 		"enabled": false,

@@ -1,0 +1,38 @@
+{
+	"tags": {
+		"LancerManufacturers": [
+			"textures/objects/gms-default.png",
+			"textures/objects/gms-colorable.png",
+			"textures/objects/ha-default.png",
+			"textures/objects/ha-colorable.png",
+			"textures/objects/horus-default.png",
+			"textures/objects/horus-colorable.png",
+			"textures/objects/ipsn-default.png",
+			"textures/objects/ipsn-colorable.png",
+			"textures/objects/ssc-default.png",
+			"textures/objects/ssc-colorable.png"
+		],
+		"Colorable": [
+			"textures/objects/gms-colorable.png",
+			"textures/objects/ha-colorable.png",
+			"textures/objects/horus-colorable.png",
+			"textures/objects/ipsn-colorable.png",
+			"textures/objects/ssc-colorable.png"
+		]
+	},
+	"sets": {
+		"LancerManufacturers": [
+			"lancer",
+			"horus",
+			"ssc",
+			"smith",
+			"shimano",
+			"ips-n",
+			"northstar",
+			"ha",
+			"harrison",
+			"armory",
+			"logo"
+		]
+	}
+}
